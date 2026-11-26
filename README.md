@@ -8,9 +8,9 @@ An entry for the [Laugh Track: The Crypto Trading Joke Contest](https://make.fun
 
 ## The joke
 
-> I got liquidated at 3am and my phone still buzzed, just to make sure I felt it.
+> Liquidated at 3am; my phone buzzed just to make sure I felt it.
 
-One line, 79 characters, about crypto and trading life.
+One line, 66 characters, about crypto and trading life.
 
 ## How it works
 
