@@ -10,7 +10,7 @@ An entry for the [Laugh Track: The Crypto Trading Joke Contest](https://make.fun
 
 > Liquidated at 3am; my phone buzzed just to make sure I felt it.
 
-One line, 66 characters, about crypto and trading life.
+One line, 63 characters, about crypto and trading life.
 
 ## How it works
 
